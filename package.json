@@ -1,0 +1,30 @@
+{
+  "name": "PROJECT_NAME",
+  "version": "1.0.0",
+  "description": "ENTER DESCRIPTION HERE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OMS"
+  ],
+  "author": "Vinod Nair MD",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "d3": "^4.9.1",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "chai": "^4.0.0",
+    "eslint": "^3.19.0",
+    "jasmine": "^2.6.0",
+    "karma": "^1.7.0",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.2",
+    "webpack": "^2.6.1"
+  }
+}
