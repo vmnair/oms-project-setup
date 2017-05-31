@@ -1,4 +1,8 @@
-# EditorConfig is awesome: http://EditorConfig.org
+# EditorConfig: http://EditorConfig.org
+# Modified by Vinod Nair MD
+# Standardized Editor configuration for Objective Medical Systems LLC
+# License: MIT
+
 
 # top-most EditorConfig file
 root = true
